@@ -1,5 +1,5 @@
 {
-  "redirects": [
+  "rewrites": [
     {
       "source": "/help",
       "destination": "https://chatbase.co/UxjfOj3uIYXEuBxIeH1av/help",
